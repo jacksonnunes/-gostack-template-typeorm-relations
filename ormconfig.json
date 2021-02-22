@@ -3,7 +3,7 @@
   "host": "localhost",
   "port": "5432",
   "username": "postgres",
-  "password": "Jack31200991",
+  "password": "postgres",
   "database": "gostack_desafio09",
   "entities": [
     "./src/modules/**/infra/typeorm/entities/*.ts"
